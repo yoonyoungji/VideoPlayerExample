@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">VideoPlayer</string>
+    <string name="play">Play</string>
+    <string name="please_enter_url_to_link">Please enter url to link!!</string>
+</resources>
